@@ -1,0 +1,8 @@
+Background Music File: dark-atmospheric-crime-music.mp3
+Background Videos Used:
+  - File: foggy-city-night.mp4, Start Time: 0.00s, Duration: 45.32s
+  - File: rain-window-texture.mp4, Start Time: 45.32s, Duration: 38.15s
+  - File: shadow-alley-urban.mp4, Start Time: 83.47s, Duration: 41.53s
+
+Note: This is an example file showing the format. 
+Replace with your own background music and video files.
