@@ -1,6 +1,6 @@
-# True Crime Video Generator
+# True Crime TikTok Generator
 
-An automated pipeline for generating short-form true crime videos with AI-generated scripts, narration, and subtitles. Perfect for creating engaging content for platforms like TikTok, YouTube Shorts, and Instagram Reels.
+An automated pipeline for generating short-form true crime videos with AI-generated scripts, narration, and subtitles. Perfect for creating engaging TikTok content, YouTube Shorts, and Instagram Reels.
 
 ## Features
 
@@ -14,7 +14,7 @@ An automated pipeline for generating short-form true crime videos with AI-genera
 ## Project Structure
 
 ```
-therealtruecrimes/
+true-crime-tiktok-generator/
 │
 ├── src/                     # Source code
 │   ├── script_generator.py  # AI script generation
@@ -57,8 +57,8 @@ therealtruecrimes/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/therealtruecrimes.git
-cd therealtruecrimes
+git clone https://github.com/yourusername/true-crime-tiktok-generator.git
+cd true-crime-tiktok-generator
 ```
 
 2. Install Python dependencies:
