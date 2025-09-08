@@ -4,7 +4,7 @@ An automated pipeline for generating short-form true crime videos with AI-genera
 
 ## Features
 
-- **AI Script Generation**: Converts brief German crime story descriptions into engaging English narratives using OpenAI's GPT-4
+- **AI Script Generation**: Converts brief crime story descriptions into engaging English narratives using OpenAI's GPT-4
 - **Professional Narration**: Text-to-speech conversion using ElevenLabs' realistic voice synthesis
 - **Automated Video Production**: Combines narration with background videos and music
 - **Dynamic Subtitles**: Automatic transcription and word-level subtitle generation using Whisper
